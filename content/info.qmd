@@ -1,0 +1,5 @@
+---
+title: Course Information
+---
+
+This page contains the course information.
